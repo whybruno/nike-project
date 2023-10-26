@@ -37,7 +37,7 @@ const Nav = () => {
             </div>
         </nav>
     </header>
-  )
-}
+  );
+};
 
-export default Nav
+export default Nav;

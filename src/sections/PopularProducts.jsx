@@ -29,9 +29,8 @@ const PopularProducts = () => {
           <PopularProductCard key={product.name} {...product} />
         ))}
       </div>
-
     </section>
-  )
-}
+  );
+};
 
 export default PopularProducts;
