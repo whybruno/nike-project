@@ -36,7 +36,7 @@ const PopularProductCard = ({ imgURL, name, price }) => {
             {price}
         </p>
     </div>
-  )
-}
+  );
+};
 
-export default PopularProductCard
+export default PopularProductCard;
